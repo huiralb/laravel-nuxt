@@ -5,6 +5,7 @@
         "build": "laravel-nuxt build"
     },
     "dependencies": {
+        "bootstrap-vue": "^2.0.0-rc.11",
         "laravel-nuxt": "^1.0.0"
     }
 }
