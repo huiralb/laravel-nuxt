@@ -151,6 +151,8 @@ return [
          * Package Service Providers...
          */
 
+        Pallares\LaravelNuxt\LaravelNuxtServiceProvider::class,
+
         /*
          * Application Service Providers...
          */
